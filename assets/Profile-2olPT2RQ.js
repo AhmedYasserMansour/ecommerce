@@ -1,0 +1,1 @@
+import{d as i,j as e,C as r}from"./index-GO7BPj8W.js";const t=()=>{const s=i(a=>{var l;return(l=a.auth)==null?void 0:l.user});return e.jsx(r,{className:"global pt-5",children:e.jsxs("ul",{children:[e.jsxs("li",{className:"info",children:["Name : ",s==null?void 0:s.name]}),e.jsxs("li",{className:"info",children:["Email : ",s==null?void 0:s.email]})]})})};export{t as default};
