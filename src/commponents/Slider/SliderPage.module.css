@@ -1,0 +1,9 @@
+.images {
+    display: flex;
+}
+.slick-list {
+    height: calc(100vh - 50px);
+}
+.images img {
+   width: 100%;
+}

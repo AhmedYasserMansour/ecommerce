@@ -1,0 +1,40 @@
+header {
+  width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+  }
+.header {
+  color: white;
+  text-align: center;
+  border-bottom: 2px solid orange;
+  border-radius: 10px;
+  border-top: 2px solid;
+  padding: 0 10px;
+  margin-right: 10px;
+  }
+  .header h4 {
+    margin: 0;
+    letter-spacing: 1px;
+    font-family: monospace;
+  }
+  .header span {
+    font-weight: bold;
+    color: #6e79df;
+    letter-spacing:1px;
+  }
+  .us {
+    position: relative;
+    padding-right: 20px;
+    }
+    .us:after {
+      content: '';
+      position: absolute;
+      background-color: #9fa2a4cc;
+      width: 1px;
+      height: 20px;
+      right: 0;
+      top: 0;
+      margin: 10px;
+    }

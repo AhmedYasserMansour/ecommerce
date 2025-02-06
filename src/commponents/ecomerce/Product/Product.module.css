@@ -1,0 +1,9 @@
+  .wishlistBtn {
+    position: absolute;
+    right:6px;
+    top: 6px;
+    padding:2px 5px;
+    background-color:white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
