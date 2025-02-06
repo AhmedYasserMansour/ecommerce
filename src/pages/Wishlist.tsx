@@ -1,4 +1,4 @@
-import LottieHandler from "@/commponents/feedback/lottieHandler/lottieHandler";
+import LottieHandler from "@/commponents/feedback/lottieHandler/LottieHandler";
 import { GridList } from "@commponents/common";
 import { Product } from "@commponents/ecomerce";
 import { Loading } from "@commponents/feedback/Loading";

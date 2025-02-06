@@ -13,7 +13,7 @@ const Register = lazy(()=> import ("@pages/Register"));
 const Profile = lazy(()=> import ("@pages/Profile"));
 const Orders = lazy(()=> import ("@/pages/Orders"));
 import Error from '@/pages/Error';
-import LottieHandler from "@/commponents/feedback/lottieHandler/lottieHandler";
+import LottieHandler from "@/commponents/feedback/lottieHandler/LottieHandler";
 import ProtectedRoute from "@/commponents/Auth/ProtectedRoute";
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';

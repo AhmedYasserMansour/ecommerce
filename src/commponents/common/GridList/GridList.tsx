@@ -1,4 +1,4 @@
-import LottieHandler from "@/commponents/feedback/lottieHandler/lottieHandler";
+import LottieHandler from "@/commponents/feedback/lottieHandler/LottieHandler";
 import React from "react";
 import { Row, Col } from "react-bootstrap";
 

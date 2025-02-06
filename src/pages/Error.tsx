@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { Container } from "react-bootstrap";
-import LottieHandler from "@/commponents/feedback/lottieHandler/lottieHandler";
+import LottieHandler from './../commponents/feedback/lottieHandler/LottieHandler';
 
 const Error = () => {
   return (

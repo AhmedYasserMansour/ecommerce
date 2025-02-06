@@ -1,7 +1,7 @@
 import { TLoading } from "@CustomTypes/Shared";
 import Categoryskeleton from "../skeletons/Categoryskeleton";
 import ProductsSkeleton from "../skeletons/ProductsSkeleton";
-import LottieHandler from "../lottieHandler/lottieHandler";
+import LottieHandler from "@/commponents/feedback/lottieHandler/LottieHandler";
 import TableSkeleton from "../skeletons/TableSkeleton";
 import CartSkeleton from "../skeletons/CartSkeleton";
 const skeletonsTypes = {

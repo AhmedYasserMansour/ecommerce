@@ -29,7 +29,6 @@ const UseCheckEmailAndPassword = () => {
 
           // Check if the email matches
           if (user.email === email) {
-           const data = { userId,...users[userId] }
             emailFound = true;
 
             // Check if the password matches
