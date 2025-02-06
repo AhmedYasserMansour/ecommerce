@@ -1,0 +1,1 @@
+import{B as a}from"./index-MxhU03Yg.js";const n="_header_15dn8_15",r="_us_15dn8_53",_={header:n,us:r},l=a(t=>t.cart.items,t=>Object.values(t).reduce((e,o)=>e+o,0)),s="_footerContainer_q5a8m_1",y={footerContainer:s};export{y as a,l as g,_ as s};

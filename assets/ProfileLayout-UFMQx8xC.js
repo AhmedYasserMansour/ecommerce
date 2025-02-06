@@ -1,1 +1,0 @@
-import{j as r,C as o,O as s}from"./index-GO7BPj8W.js";import{R as t}from"./Row-bcx-6aBi.js";import{C as e}from"./Col-TQSzdsVT.js";const l=()=>r.jsx(o,{children:r.jsx(t,{children:r.jsx(e,{children:r.jsx(s,{})})})});export{l as default};
